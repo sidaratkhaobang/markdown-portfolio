@@ -1,6 +1,6 @@
 * salmon
 * java
 * javascript
- * react.js
+* react.js
 * python
 * php
