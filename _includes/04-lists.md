@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+salmon
+java
+javascript
+react.js
+python
+php
